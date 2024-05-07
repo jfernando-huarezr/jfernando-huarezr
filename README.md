@@ -1,16 +1,20 @@
 ### Hi there 👋, my name is Jose Fernando
 #### I'm an Electronic Engineer transitioning into the world of software development
-With a solid foundation in engineering principles and a keen interest in coding, I'm currently deepening my skills to build innovative and efficient software solutions.
+
+Welcome to my GitHub space! I'm an Electronic Engineer by trade, but at heart, I'm a bit of a code whisperer. I've spent some quality time with circuits and solder, but these days, I'm all about slinging code and learning the ins and outs of software development!
 
 ## About Me
 - 🎓 Bachelor's in Electronic Engineering at PUCP
-- 💻 Currently studying: Software Development at ISIL
+- 💡 Found my true calling in coding and haven't looked back since.
+- 📚 Currently self-learning and also studying the career of Software Development at ISIL
 - 🛠️ Tech Interests: Full-Stack Development, Mobile Development
-- 🌱 Learning: 
-- 🔭 I’m currently working on Odin project Javascript Path 
-- 🔍 Exploring: Cutting-edge tech trends and best practices in software engineering
-- 📫 How to reach me: jose.huarezr@gmail.com 
-- ⚡ Fun fact: I'm afraid of heights 
+- 🌱 Learning: Java, C#
+- 🔭 I’m currently working on the Odin Project Javascript Path 
+- 🚀 I'm on a mission to blend my hardware know-how with my newfound love for software
+- ⚡ Fun fact: I'm afraid of heights!
+
+## Let's Connect
+- Shoot me an email at `jose.huarezr@gmail.com` or find me on [LinkedIn] for a virtual coffee chat! 
 
 ## Languages 	
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
