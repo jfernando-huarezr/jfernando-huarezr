@@ -14,7 +14,7 @@ Welcome to my GitHub space! I'm an Electronic Engineer by trade, but at heart, I
 - ⚡ Fun fact: I'm afraid of heights!
 
 ## Let's Connect!
-- Shoot me an email at `jose.huarezr@gmail.com` or find me on [(https://www.linkedin.com/in/jfernandohuarez/)] for a virtual coffee chat! 
+- Shoot me an email at `jose.huarezr@gmail.com` or find me on [Linkedin](https://www.linkedin.com/in/jfernandohuarez/) for a virtual coffee chat! 
 
 ## Languages 	
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
