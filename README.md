@@ -8,7 +8,7 @@ Welcome to my GitHub space! I'm an Electronic Engineer by trade, but at heart, I
 - 💡 Found my true calling in coding and haven't looked back since.
 - 📚 Currently self-learning and also studying the career of Software Development at ISIL
 - 🛠️ Tech Interests: Full-Stack Development, Mobile Development
-- 🌱 Learning: Java, C#
+- 🌱 Learning: HTML, CSS, Javascript, Java, C#, Kotlin
 - 🔭 I’m currently working on the Odin Project Javascript Path 
 - 🚀 I'm on a mission to blend my hardware know-how with my newfound love for software
 - ⚡ Fun fact: I'm afraid of heights!
