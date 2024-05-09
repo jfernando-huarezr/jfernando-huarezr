@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jose Fernando
-#### I'm an Electronic Engineer transitioning into the world of software development
+#### I'm an Electronic Engineer transitioning into the world of Software Development!
 
 Welcome to my GitHub space! I'm an Electronic Engineer by trade, but at heart, I'm a bit of a code whisperer. I've spent some quality time with circuits and solder, but these days, I'm all about slinging code and learning the ins and outs of software development!
 
