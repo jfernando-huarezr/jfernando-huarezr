@@ -1,16 +1,15 @@
 ### Hi there 👋, my name is Jose Fernando
-#### I'm an Electronic Engineer transitioning into the world of Software Development!
+#### I'm an Electronic Engineer learning some Software Development
 
-Welcome to my GitHub space! I'm an Electronic Engineer by trade, but at heart, I'm a bit of a code whisperer. I've spent some quality time with circuits and solder, but these days, I'm all about slinging code and learning the ins and outs of software development!
+Welcome to my GitHub space! I'm an Electronic Engineer who enjoys somewhat to code. I've spent quality time with circuits and solder, and would like to complement it with some ninja coding skills
 
 ## About Me
-- 🎓 Bachelor's in Electronic Engineering at PUCP
-- 💡 Found my true calling in coding and haven't looked back since.
-- 📚 Currently self-learning and also studying the career of Software Development at ISIL
-- 🛠️ Tech Interests: Full-Stack Development, Mobile Development
+- 🎓 Bachelor's in Electronic Engineering at PUCP Peru, expert in Electronic Security on Access Control systems and CCTV.
+- 📚 I enjoy programming so currently self-learning and also studying the career of Software Development at ISIL
+- 🛠️ Tech Interests: Full-Stack Development, Mobile Development, Access control, CCTV
 - 🌱 Learning: HTML, CSS, Javascript, Java, C#, Kotlin
-- 🔭 I’m currently working on the Odin Project Javascript Path 
-- 🚀 I'm on a mission to blend my hardware know-how with my newfound love for software
+- 🔭 I’m currently learning through the Odin Project Javascript Path 
+- 🚀 I'm on a mission to blend my hardware know-how with my software learning
 - ⚡ Fun fact: I'm afraid of heights!
 
 ## Let's Connect!
